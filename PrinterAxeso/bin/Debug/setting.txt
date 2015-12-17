@@ -1,0 +1,7 @@
+id_client 1
+
+url_api http://192.168.15.124/inventory_rfid/public/
+
+client General Electric
+
+password passhqhconf
